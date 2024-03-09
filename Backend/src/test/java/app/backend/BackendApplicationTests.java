@@ -1,10 +1,10 @@
-package org.example.c4life_be;
+package app.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class C4lifeBeApplicationTests {
+class BackendApplicationTests {
 
 	@Test
 	void contextLoads() {
